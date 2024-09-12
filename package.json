@@ -4,7 +4,7 @@
   "description": "A conference call implementation using WebRTC, GunDB and Node.js.",
   "main": "src/app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.0",
     "gun": "^0.2020.301"
   },
   "devDependencies": {
